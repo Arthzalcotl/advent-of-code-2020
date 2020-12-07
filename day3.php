@@ -364,6 +364,6 @@
   echo $trees;
 
   /*
-    for 2nd half
+    for 2nd half just change the $right and $down and multiply the result
   */
   echo 90*274*82*68*44;
